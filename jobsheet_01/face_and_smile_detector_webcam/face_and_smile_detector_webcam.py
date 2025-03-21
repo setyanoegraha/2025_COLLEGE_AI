@@ -1,4 +1,4 @@
-import cv2
+import cv2  # type: ignore
 
 # Path ke file Haar Cascade untuk wajah dan senyuman
 face_cascade_path = cv2.data.haarcascades + \
