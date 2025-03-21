@@ -1,4 +1,4 @@
-import cv2
+import cv2  # type: ignore
 
 # Pastikan file 'haarcascade_frontalface_default.xml' ada di direktori yang sama dengan script ini
 # atau gunakan path lengkap ke file tersebut.
